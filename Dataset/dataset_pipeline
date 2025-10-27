@@ -1,0 +1,5 @@
+WE will first add a column which contain the vector embeddings
+then we will add a column and write the domain of each query
+then add a column named complexity tell whaether a query simple hard or complex
+then we will send each query to my 10 models and we will store each model response time and the how much cpu/gpu is used 
+then we will use an llm as a judge to evaluate each models response and assign them scores...so each model response score will also be stored
